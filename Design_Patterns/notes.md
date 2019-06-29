@@ -76,5 +76,9 @@
 		[3.2] Mediator
 		[3.3] Observer
 	
+	--------------------------
+	Objects 
+	Node implementation
+	Angular implementation	
 	
-
+	
